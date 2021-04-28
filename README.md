@@ -1,0 +1,1 @@
+# Translate-English-Word-in-Image-to-Japanese
